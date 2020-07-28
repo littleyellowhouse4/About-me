@@ -23,6 +23,7 @@
                                     <color key="titleColor" systemColor="systemIndigoColor" red="0.34509803919999998" green="0.33725490200000002" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
+                                    <action selector="facts:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IXa-8O-OzV"/>
                                     <segue destination="YJE-Vd-z9W" kind="show" id="Oz1-89-392"/>
                                 </connections>
                             </button>
